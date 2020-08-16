@@ -1,5 +1,4 @@
-# random-no
-random no generator
+
 #include <iostream>
 #include <queue>
 #include <ctime>
